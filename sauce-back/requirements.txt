@@ -1,0 +1,4 @@
+pandas>=2.2.3
+numpy>=2.2.4
+prophet>=1.1.6
+statsmodels>=0.14.4 
